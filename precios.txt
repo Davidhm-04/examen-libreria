@@ -1,4 +1,4 @@
 Lista de precios
-Libro A: 10 EUR
+Libro A: 12 EUR
 Libro B: 15 EUR
 Libro C: 20 EUR
